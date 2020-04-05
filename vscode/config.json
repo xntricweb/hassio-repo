@@ -10,7 +10,8 @@
   "startup": "services",
   "arch": [
     "aarch64",
-    "amd64"
+    "amd64",
+    "amdv7"
   ],
   "boot": "auto",
   "auto_uart": true,
